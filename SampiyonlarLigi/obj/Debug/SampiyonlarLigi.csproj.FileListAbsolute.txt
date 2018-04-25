@@ -1,0 +1,9 @@
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\bin\Debug\SampiyonlarLigi.exe.config
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\bin\Debug\SampiyonlarLigi.exe
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\bin\Debug\SampiyonlarLigi.pdb
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.csprojResolveAssemblyReference.cache
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.Form1.resources
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.Properties.Resources.resources
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.csproj.GenerateResource.Cache
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.exe
+c:\users\fırat\documents\visual studio 2013\Projects\SampiyonlarLigi\SampiyonlarLigi\obj\Debug\SampiyonlarLigi.pdb
